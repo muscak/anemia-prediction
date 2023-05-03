@@ -1,7 +1,5 @@
 # Anemia Dataset
 
-*Anemia* or anaemia (British English) is a blood disorder in which the blood has a reduced ability to carry oxygen due to a lower than normal number of red blood cells, or a reduction in the amount of haemoglobin<sup>[1]</sup>.
-
 Anemia dataset[1] containing attributes: 
 - **Gender:** 0 is Male and 1 is Female
 - **Hemoglobin:** Hemoglobin is the protein in your red blood cells that transports oxygen to the tissues of your body.
