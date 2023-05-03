@@ -1,14 +1,14 @@
 # Anemia Dataset
 
-Anemia dataset[1] containing attributes: 
+Anemia dataset[1] contains 1421 datapoints including below 5 features: 
 - **Gender:** 0 is Male and 1 is Female
 - **Hemoglobin:** Hemoglobin is the protein in your red blood cells that transports oxygen to the tissues of your body.
 - **Mean Corpuscular Hemoglobin Concentration (MCHC):** MCHC value found on a complete blood count (CBC) describing the average hemoglobin concentration in a given volume of red blood cells [2].
 - **Mean Corpuscular Volume (MCV):** An MCV blood test measures the average size of your red blood cells [3].
 - **Mean Corpuscular Hemoglobin (MCH):** MCH value refers to the average quantity of hemoglobin present in a single red blood cell [4].
+and 1 label:
 - **Results:** 0 is Not Anemic and 1 is Anemic 
 
-This dataset is used to predict if a patient is likely to suffer from anemia. Machine learning binary classifier algorithm to be used.
 
 ---
 
