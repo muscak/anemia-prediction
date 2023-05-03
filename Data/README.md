@@ -9,6 +9,10 @@ Anemia dataset[1] contains 1421 datapoints including below 5 features:
 and 1 label:
 - **Results:** 0 is Not Anemic and 1 is Anemic 
 
+As you can see in the below image that the dataset is fairly in balanced state.
+
+<img src="anemia_value_count.png" alt="Value Counts of Result">
+
 
 ---
 
