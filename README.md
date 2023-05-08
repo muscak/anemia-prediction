@@ -20,11 +20,13 @@ The below linear and non-linear algorithms are evaluated using 10 fold corss val
 
 CART provided the best mean training score with the least standard deviation. The same algorithm provided **100%** accuracy score on test dataset with the default hyper parameters. 
 
+- [ ] Deneme
+- [x] Deneme
 
 
 
 
 
----
+
 
 [^1]: [Anemia](https://en.wikipedia.org/wiki/Anemia)
