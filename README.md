@@ -27,4 +27,4 @@ CART provided the best mean training score with the least standard deviation. Th
 
 ---
 
-[^1] [Anemia](https://en.wikipedia.org/wiki/Anemia)
+[^1]: [Anemia](https://en.wikipedia.org/wiki/Anemia)
