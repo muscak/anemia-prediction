@@ -1,6 +1,6 @@
 # Anemia Prediction
 
-Anemia is a blood disorder in which the blood has a reduced ability to carry oxygen due to a lower than normal number of red blood cells, or a reduction in the amount of hemoglobin [1].
+Anemia is a blood disorder in which the blood has a reduced ability to carry oxygen due to a lower than normal number of red blood cells, or a reduction in the amount of hemoglobin [^1].
 
 The purpose of this study is to predict if a patient suffers from anemia or not based on some blood attributes provided in the sample [dataset](https://github.com/muscak/anemia-prediction/tree/master/Data).
 
@@ -27,4 +27,4 @@ CART provided the best mean training score with the least standard deviation. Th
 
 ---
 
-[1] [Anemia](https://en.wikipedia.org/wiki/Anemia)
+[^1] [Anemia](https://en.wikipedia.org/wiki/Anemia)
